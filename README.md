@@ -3,7 +3,7 @@
 ## Assumptions
 - You are using Python 3.x
 - You have the installed `pycryptodome` by running `pip install pycryptodome`
-- You have `ldapsearch` installed
+- You have `ldapsearch` installed. On a Mac, you can run `brew install openldap`
 - You have a CEC account
 - You have a CSV file `all.csv` with each line listing the first and last name of the user you want to run `ldapsearch` on
 
